@@ -1,6 +1,7 @@
 # vk_exmaple
-![hippo](https://drive.google.com/file/d/1I5j2qehXigglFDQJ_HTMWBaituhrP74G/view?usp=drive_link)
 ![til](./images/Example_vk.gif)
+
+
 Flutter project  с использованием следующих технологий:
 -VkAPI,
 -Bloc,
