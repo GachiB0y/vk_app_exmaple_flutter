@@ -1,6 +1,12 @@
 # vk_exmaple
-
-A new Flutter project.
+![hippo](https://drive.google.com/file/d/1I5j2qehXigglFDQJ_HTMWBaituhrP74G/view?usp=drive_link)
+Flutter project  с использованием следующих технологий:
+-VkAPI,
+-Bloc,
+-dio,
+-DI,
+-code generation (json serializable), 
+-local storage(flutter secure storage).
 
 ## Getting Started
 
