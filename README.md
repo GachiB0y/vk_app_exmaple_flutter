@@ -3,12 +3,12 @@
 
 
 Flutter project  с использованием следующих технологий:
--VkAPI,
--Bloc,
--dio,
--DI,
--code generation (json serializable), 
--local storage(flutter secure storage).
+VkAPI,
+Bloc,
+dio,
+DI,
+code generation (json serializable), 
+local storage(flutter secure storage).
 
 ## Getting Started
 
